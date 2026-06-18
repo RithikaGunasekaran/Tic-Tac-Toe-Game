@@ -53,17 +53,6 @@ tic-tac-toe/
 
 ---
 
-## Screenshots
-
-Include the following screenshots in your submission:
-
-* Initial game screen
-* Gameplay with moves
-* Winner popup screen
-* Scoreboard updates
-
----
-
 ## Conclusion
 
 This project demonstrates how basic frontend technologies can be used to build an interactive application. It focuses on clear logic implementation, simple design, and user-friendly interaction.
